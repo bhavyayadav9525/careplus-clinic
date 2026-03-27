@@ -1,0 +1,5 @@
+{
+  "name": "CarePlus Clinic",
+  "description": "A premium healthcare platform for modern medical care and seamless appointment booking.",
+  "requestFramePermissions": ["geolocation"]
+}
